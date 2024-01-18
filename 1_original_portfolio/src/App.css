@@ -1,0 +1,15 @@
+/* App.css */
+
+.main-content {
+  position: relative;
+  order:1;
+}
+
+.with-three-scene-background {
+  /* Add styles for the background when ThreeScene is active */
+  position: relative;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  /* Other styles */
+}
